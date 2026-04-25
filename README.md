@@ -14,14 +14,7 @@
 - 💻 Passionate about coding and projects  
 - 🌱 Learning Java, Git & GitHub, AI Basics  
 - 🚀 Working toward internships and open source
-
----
-
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-Learning-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Beginner-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)
-
+  
 ---
 
 ## 🚀 Projects
@@ -55,8 +48,4 @@
 ## 📫 Connect
 LinkedIn: www.linkedin.com/in/komal-bilatia-a198a636b
 
-```terminal
-> System Status:
-Learning... ████████ 80%
-Dreaming Big... ██████████ 100%
-```
+
