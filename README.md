@@ -38,14 +38,6 @@
 - Grow as a Developer  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komal203&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Komal203&theme=radical)
-
----
-
 ## 💻 Future Roles
 - Software Developer  
 - AI/ML Enthusiast  
