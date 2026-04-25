@@ -1,26 +1,70 @@
-# Hi there 👋 I'm Komal
+# 👨‍💻 Hi, I'm Komal
 
-### 🚀 About Me
+```bash
+> BTech CSE Student
+> Java Learner
+> Exploring AI & Technology
+> Future Software Developer Loading...
+```
+
+---
+
+## ⚡ About Me
 - 🎓 BTech CSE Student at Gautam Buddha University  
-- 💻 Learning Java and exploring AI & Technology  
-- 🌱 Growing in coding and open source  
-- 🎯 Goal: Internship | Developer | Tech Explorer  
+- 💻 Passionate about coding and projects  
+- 🌱 Learning Java, Git & GitHub, AI Basics  
+- 🚀 Working toward internships and open source
 
-### 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-Beginner-blue)
-![Java](https://img.shields.io/badge/Java-Learning-orange)
-![Git](https://img.shields.io/badge/Git-Learning-red)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black)
+---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komal203&show_icons=true)
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-Learning-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Beginner-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal203&layout=compact)
+---
 
-### 🌟 Fun Facts
-🏸 Badminton Lover  
-💃 Love Dancing  
-✨ Always eager to learn new skills
+## 🚀 Projects
+⚡ Footstep Energy Generation Project  
+💻 Beginner Java Programs  
+🌐 Future Web Projects  
 
-### 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/komal-bilatia-a198a636bAdd Your Link Here
+---
+
+## 🎯 Mission
+- Build cool projects  
+- Contribute to Open Source  
+- Get an Internship  
+- Grow as a Developer  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komal203&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Komal203&theme=radical)
+
+---
+
+## 💻 Future Roles
+- Software Developer  
+- AI/ML Enthusiast  
+- Open Source Contributor
+
+---
+
+## 🎮 Fun Mode
+🏸 Badminton  
+💃 Dancing  
+☕ Code • Learn • Repeat
+
+---
+
+## 📫 Connect
+LinkedIn: www.linkedin.com/in/komal-bilatia-a198a636b
+
+```terminal
+> System Status:
+Learning... ████████ 80%
+Dreaming Big... ██████████ 100%
+```
